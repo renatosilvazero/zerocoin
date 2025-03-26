@@ -1,0 +1,2 @@
+# zerocoin
+criptocoin
